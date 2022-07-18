@@ -1,0 +1,16 @@
+{
+  "name": "monopo.vn",
+  "version": "1.0.0",
+  "description": "Monopo clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "lil-gui": "^0.17.0",
+    "three": "^0.142.0"
+  }
+}
